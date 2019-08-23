@@ -5,9 +5,9 @@ clear
 echo -e "
 \e[31m██████████▓ \e[37mMenu ☾✯\e[31m ▓██████████
 ▓
-▓\e[31m[\e[33m1\e[31m]\e[37mGerçek Zamanlı Konum\e[32m (Start)\e[31m
-▓\e[31m[\e[33m2\e[31m]\e[37mIp Adresi Konum Bilgisi\e[32m (Old List)\e[31m
-▓	  𝔏𝔬𝔠𝔞𝔱𝔦𝔬𝔫
+▓\e[31m[\e[33m1\e[31m]\e[37mGerçek Zamanlı Konum
+▓\e[31m[\e[33m2\e[31m]\e[37mIp Adresi Konum Bilgisi 
+▓	  Konum
 \e[31m███████████████████████████
 
 \e[37m▒░▓▒░▓▒░Ahmet Keskin
