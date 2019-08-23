@@ -1,2 +1,2 @@
-# Turk-Geolocation
-Türk Yer Tespiti Aracı
+Konum Tespit Etme Hizmeti
+
