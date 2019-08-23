@@ -1,2 +1,0 @@
-Konum Tespit Etme Hizmeti
-
